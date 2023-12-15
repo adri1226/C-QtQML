@@ -1,3 +1,6 @@
+# DDS_Bank_Backend
+Project to learn about DDS and to connect with other applications, other people who use DDS and QML.
+
 # Prueba01
 Try to add DDS RTI Libraries using a ".pro" file configuration project. Not working.
 
