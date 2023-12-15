@@ -70,6 +70,10 @@ endforeach()
 set(PROJECT_SOURCES
     ${GENERATED_IDL_FILES}
     main.cpp
+    application.hpp
+    subscriber.hpp subscriber.cpp
+    bankmodel.hpp bankmodel.cpp
+    buckettype.hpp
     )
 
 add_executable(DDS_Bank_Backend
